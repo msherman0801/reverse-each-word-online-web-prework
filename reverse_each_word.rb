@@ -7,5 +7,3 @@ def reverse_each_word(sentence)
     testa = newA.join(" ")
     puts testa
 end
-
-reverse_each_word(sentence)
